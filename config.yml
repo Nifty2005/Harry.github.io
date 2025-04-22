@@ -1,1 +1,5 @@
-
+title:  Harry
+logo
+description: I'm a Computer Engineering student
+#show_downloads: true
+theme: jekyll-theme-minimal
