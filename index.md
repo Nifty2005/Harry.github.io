@@ -1,4 +1,8 @@
 ---
+<img src="profile.jpg" alt="Harryl Jo Guevara" style="width: 180px; border-radius: 50%; display: block; margin: 0 auto;" />
+<h1 style="text-align: center;">Harryl Jo Guevara</h1>
+<p style="text-align: center;"><strong>Computer Engineering Student @ University of Bohol</strong></p>
+
 layout: default
 title: Harryl Jo Guevara
 ---
