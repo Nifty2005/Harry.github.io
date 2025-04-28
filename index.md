@@ -3,6 +3,8 @@ layout: default
 title: Harryl Jo Guevara
 ---
 
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+
 <!-- Profile Image -->
 <div style="text-align: center; margin-top: 20px;">
     <img src="profile.jpg" alt="Harryl Jo Guevara" style="width: 180px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
@@ -76,3 +78,5 @@ title: Harryl Jo Guevara
         <li><a href="https://facebook.com/Harryl%20Guevara" style="color: #007bff; text-decoration: none;">Facebook (Harryl Guevara)</a></li>
     </ul>
 </section>
+
+</div>
