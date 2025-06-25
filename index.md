@@ -152,6 +152,7 @@ body {
     <li>🛠️ Computer Troubleshooting</li>
     <li>🎮 Online Gaming Strategy</li>
 </ul>
+
 <!-- Certifications -->
 <h2 class="section-title">📜 Certifications</h2>
 <ul class="skills-list">
