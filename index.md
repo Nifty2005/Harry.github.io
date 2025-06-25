@@ -152,6 +152,14 @@ body {
     <li>🛠️ Computer Troubleshooting</li>
     <li>🎮 Online Gaming Strategy</li>
 </ul>
+<!-- Certifications -->
+<h2 class="section-title">📜 Certifications</h2>
+<ul class="skills-list">
+    <li>🤖 Sumobot Seminar</li>
+    <li>🔌 PCB Design Seminar</li>
+    <li>💻 ICT Congress Seminar</li>
+    <li>🔷 Arduino Seminar</li>
+</ul>
 
 <!-- Projects -->
 <h2 class="section-title">🚀 Projects</h2>
